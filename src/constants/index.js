@@ -260,7 +260,7 @@ export const benefits = [
     title: "Improve everyday",
     text:
       "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
-    backgroundUrl: "assets/benefits/card-2.svg",
+    backgroundUrl: "../assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
     light: true,
