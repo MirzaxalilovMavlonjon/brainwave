@@ -107,7 +107,7 @@ export const roadmap = [
     title: "Gamification",
     text:
       "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
-    date: "May 2023",
+    date: "August 2024",
     status: "progress",
     imageUrl: roadmap2,
   },
@@ -116,7 +116,7 @@ export const roadmap = [
     title: "Chatbot customization",
     text:
       "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
-    date: "May 2023",
+    date: "September 2024",
     status: "done",
     imageUrl: roadmap3,
   },
@@ -125,7 +125,7 @@ export const roadmap = [
     title: "Integration with APIs",
     text:
       "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
-    date: "May 2023",
+    date: "Otober 2023",
     status: "progress",
     imageUrl: roadmap4,
   },
