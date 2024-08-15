@@ -309,7 +309,7 @@ export const socials = [
     id: "0",
     title: "Discord",
     iconUrl: discordBlack,
-    url: "#",
+    url: "",
   },
   {
     id: "1",
@@ -327,7 +327,7 @@ export const socials = [
     id: "3",
     title: "Telegram",
     iconUrl: telegram,
-    url: "#",
+    url: "https://t.me/Vali_Teach_Kokand",
   },
   {
     id: "4",
